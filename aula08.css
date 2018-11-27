@@ -1,0 +1,50 @@
+/* este é um documento css */
+
+
+
+*{
+	margin:0;
+	padding:0;
+	
+}
+
+
+#css{
+	width:200px;
+	height:200px;
+	
+}
+
+#css:hover {
+	width:300px;
+	height:300px;
+	
+
+}
+
+#div {
+	position:absolute;
+	top: 300px;
+	left:340px;
+	width:250px;
+	height:250px;
+	background-color: #FF0000;
+	border-radius:4px;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	
+	
+}
+
+#div:hover {
+	background-color:#FF00FF;
+}
+
+
+#div:active {
+	background-color:#00FF00;
+}
+
+
+	
+	
